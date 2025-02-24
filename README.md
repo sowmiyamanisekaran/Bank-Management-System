@@ -12,7 +12,7 @@ Welcome to the **Bank Management System** repository! This project simulates a s
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview 🏦 (#overview)
+## Overview 🏦 
 The **Bank Management System** allows users to manage their accounts using a series of options. It simulates real-world banking operations and demonstrates key concepts like:
 - Object-Oriented Programming (OOP)
 - File Handling
